@@ -26,7 +26,7 @@ Algumas perguntas que tentaremos responder:
 ## Conclusão
 
 *  Cerca de 57% dos clientes estão inativos.
-*  Clientes acima dos 50 anos e do gênero feminino são os mais propensos à cancelamentos.
+*  Clientes acima dos 50 anos e do gênero feminino são os mais propensos a cancelamentos.
 *  100% dos planos mensais foram cancelados.
 *  Clientes que precisam ligar mais de 4x para o call center cancelam a assinatura.
 *  Foi possível identificar que 100% dos cancelamentos tem influência do atraso no pagamento acima de 20 dias. 
