@@ -4,7 +4,7 @@ Base de dados disponível: https://drive.google.com/drive/folders/1yba8CqZC3PB9G
 <br>
 <br>
 
-_Obs.: Os dados desse projetos são fictícios, apenas para estudo_ 
+_Obs.: Os dados desse projetos são fictícios, apenas para estudo._ 
 
 <br>
 
