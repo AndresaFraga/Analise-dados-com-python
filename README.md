@@ -1,6 +1,6 @@
 # Case - Cancelamento de Clientes
 <br>
-Base de dados disponibilizada pelo cliente: https://drive.google.com/drive/folders/1yba8CqZC3PB9GONQSiRpKnVfGULKAzjW?usp=drive_link
+Base de dados disponível: https://drive.google.com/drive/folders/1yba8CqZC3PB9GONQSiRpKnVfGULKAzjW?usp=drive_link
 <br>
 <br>
 
